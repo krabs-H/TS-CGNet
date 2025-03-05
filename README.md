@@ -57,7 +57,7 @@ in detection accuracy under varying weather conditions and sensor interferences 
 
 # Qualitative Results
 
-Here is a demonstration of the qualitative results use real event sequences:
+Here is a demonstration of the qualitative results in various perceived ranges:
 
 <div align="center">
   <img src="./assets/data_results.png" width="88%">
@@ -66,7 +66,7 @@ Here is a demonstration of the qualitative results use real event sequences:
 # TODO
 
 - [ ] Release the code.
-- [x] Release the [arxiv preprint]().
+- [x] Release the [arxiv preprint](https://arxiv.org/pdf/2503.02578).
 
 <br>
 
@@ -75,5 +75,13 @@ Here is a demonstration of the qualitative results use real event sequences:
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
 
 ```
-
+@misc{hong2025tscgnettemporalspatialfusionmeets,
+      title={TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping}, 
+      author={Xinying Hong and Siyu Li and Kang Zeng and Hao Shi and Bomin Peng and Kailun Yang and Zhiyong Li},
+      year={2025},
+      eprint={2503.02578},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.02578}, 
+}
 ```
